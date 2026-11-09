@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "project": "rt"
+  },
+  "phases": [
+    {
+      "id": 0,
+      "name": "F0"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "F0.1.T1",
+      "phase": 0,
+      "title": "Add a greeting file",
+      "description": "https://github.com/hectorcanaimero/orch-525-roundtrip/issues/1\n\n\u003e Please Add a greeting file.\n\u003e\n\u003e - **Type**: feature\n\u003e Acceptance: a file exists for it.",
+      "model": "claude-sonnet-4-6",
+      "reason": "",
+      "status": "backlog",
+      "dependencies": [],
+      "estimateHours": 0.0,
+      "files": [],
+      "specRef": "issue-1-add-a-greeting-file.md#F0.1.T1",
+      "sourceIssue": "https://github.com/hectorcanaimero/orch-525-roundtrip/issues/1",
+      "comments": []
+    },
+    {
+      "id": "F0.2.T1",
+      "phase": 0,
+      "title": "Add contributing notes",
+      "description": "https://github.com/hectorcanaimero/orch-525-roundtrip/issues/2\n\n\u003e Please Add contributing notes.\n\u003e\n\u003e - **Type**: feature\n\u003e Acceptance: a file exists for it.",
+      "model": "claude-sonnet-4-6",
+      "reason": "",
+      "status": "backlog",
+      "dependencies": [],
+      "estimateHours": 0.0,
+      "files": [],
+      "specRef": "issue-2-add-contributing-notes.md#F0.2.T1",
+      "sourceIssue": "https://github.com/hectorcanaimero/orch-525-roundtrip/issues/2",
+      "comments": []
+    },
+    {
+      "id": "F0.3.T1",
+      "phase": 0,
+      "title": "Add a license placeholder",
+      "description": "https://github.com/hectorcanaimero/orch-525-roundtrip/issues/3\n\n\u003e Please Add a license placeholder.\n\u003e\n\u003e - **Type**: feature\n\u003e Acceptance: a file exists for it.",
+      "model": "claude-sonnet-4-6",
+      "reason": "",
+      "status": "backlog",
+      "dependencies": [],
+      "estimateHours": 0.0,
+      "files": [],
+      "specRef": "issue-3-add-a-license-placeholder.md#F0.3.T1",
+      "sourceIssue": "https://github.com/hectorcanaimero/orch-525-roundtrip/issues/3",
+      "comments": []
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+spec_root: specs
+dispatch:
+  worktree_mode: true
+  base_branch: main
+vcs:
+  provider: github
+  auto_pr: true
+  ci_poll_interval_s: 10
